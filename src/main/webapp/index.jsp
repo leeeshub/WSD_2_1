@@ -9,5 +9,8 @@
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
+<br/>
+<br/>
+<a href="list.jsp">list.jsp 페이지 바로가기</a>
 </body>
 </html>
