@@ -1,0 +1,65 @@
+/* list.jsp */
+.search-opt {
+    border-color: rgb(231, 230, 230);
+    width: 140px;
+}
+
+.search-input {
+    border-color: rgb(231, 230, 230);
+    border-radius: 1.5rem 0 0 1.5rem !important;
+}
+
+.search-btn {
+    border-radius: 0 1.5rem 1.5rem 0 !important;
+}
+
+.table td, .table th {
+    height: 40px;
+    vertical-align: middle;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.list-cont {
+    margin: 0 50px;
+}
+
+/* write.jsp */
+#cont {
+    padding-bottom: 50px !important;
+}
+
+.price-input {
+    border-radius: 0 6px 6px 0 !important;
+}
+
+.form-cont {
+    margin: 0 70px;
+}
+
+.invalid-highlight {
+    border: 3px solid rgba(184, 3, 3, 0.4) !important;
+}
+
+.invalid-msg {
+    color: rgb(184, 3, 3);
+    width: 100%;
+    font-size: smaller;
+}
+
+.valid-highlight {
+    border: 3px solid rgba(0, 128, 0, 0.4) !important;
+}
+
+.valid-txt-color {
+    color: green !important;
+}
+
+
+/* view.jsp */
+.view-text {
+    background-color: #e3f2fd;
+    border-radius: 6px;
+}
